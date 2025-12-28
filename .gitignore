@@ -1,5 +1,4 @@
 venv/ # for virtual environment
-venv/ # for virtual environment
 __pycache__/ # for python cache files
 *.pyc # for compiled python files
 
